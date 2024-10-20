@@ -4,7 +4,7 @@ A JavaScript countdown timer that shows the remaining **days, hours, minutes, an
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://shahenda-elshayal.github.io/future-event-timer/)
 
 ## Features
 

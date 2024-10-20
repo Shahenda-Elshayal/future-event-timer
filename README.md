@@ -1,2 +1,13 @@
 # future-event-timer
-A simple and customizable JavaScript countdown timer that displays the days, hours, minutes, and seconds remaining until a specific event.
+
+A JavaScript countdown timer that shows the remaining **days, hours, minutes, and seconds** until a specified event or date. The timer updates every second and stops when the countdown reaches zero.
+
+## Live Demo
+
+[View Live Demo]()
+
+## Features
+
+- Displays time units: **days, hours, minutes, and seconds**.
+- Automatically stops when the countdown reaches the target date.
+- Easy to customize for any future event or deadline.
